@@ -1,0 +1,156 @@
+#centrado{
+    background-color:rgb(138, 216, 208);
+    position: auto;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+}
+
+#centrado h1{
+    color: rgb(82, 89, 129);
+    font-size: 35px;
+    padding: 15px 15px;
+    text-align: center;
+}
+
+#restaurante{
+    background-color: rgb(111, 199, 190);
+    padding: 15px 15px;
+    overflow: hidden;
+    position: auto;
+}
+
+#restaurante img{
+	float: right;
+    display: block;
+    margin: 15px 15px;
+	position: auto;
+	width: 30%;
+}
+
+#restaurante h2{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(0, 105, 79);
+}
+
+#restaurante p{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(0, 99, 89);
+	padding: 15px 15px;
+	position: auto;
+}
+
+#restaurante a{
+    margin: 10px 10px 10px 10px;
+    background-color: rgba(188,188,188);
+	text-decoration: none;	
+	text-align: center;
+	color: rgb(9, 101, 155);
+	text-align: center;
+}
+
+#restaurante button{
+    font-size: 20px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+    padding: 12px 12px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(188,188,188);
+}
+
+#modulo{
+    background-color: rgb(79, 192, 181);
+    padding: 15px 15px;
+    overflow: hidden;
+    position: auto;
+}
+
+#modulo img{
+    margin: 15px 15px;
+	float: left;
+	display: block;
+	position: auto;
+	width: 30%;
+}
+
+#modulo h2{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(0, 105, 79);
+}
+
+#modulo p{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(0, 51, 85);
+	padding: 15px 15px;
+	position: auto;
+}
+
+#modulo a{
+    margin: 10px 10px 10px 10px;
+    background-color: rgba(188,188,188);
+	text-decoration: none;	
+	text-align: center;
+	color: rgb(9, 101, 155);
+	text-align: center;
+}
+
+#modulo button{
+    font-size: 20px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+    padding: 12px 12px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(188,188,188);
+}
+
+#movil{
+    background-color: rgb(39, 177, 163);
+    padding: 15px 15px;
+    overflow: hidden;
+    position: auto;
+}
+
+#movil img{
+    float: right;
+    margin: 15px 15px;
+	display: block;
+	position: auto;
+	width: 30%;
+}
+
+#movil h2{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(0, 105, 79);
+}
+
+#movil p{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(0, 65, 58);
+	padding: 15px 15px;
+	position: auto;
+}
+
+#movil a{
+    margin: 10px 10px 10px 10px;
+    background-color: rgba(188,188,188);
+	text-decoration: none;	
+	text-align: center;
+	color: rgb(9, 101, 155);
+	text-align: center;
+}
+
+#movil button{
+    font-size: 20px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+    padding: 12px 12px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(188,188,188);
+}

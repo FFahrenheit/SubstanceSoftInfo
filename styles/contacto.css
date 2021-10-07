@@ -1,0 +1,74 @@
+.centrado{
+    background-color: rgb(178, 249, 252);
+    padding: 15px 15px;
+}
+
+.centrado h1{
+    text-align: center;
+    color: rgb(0, 114, 129);
+    font-size: 50px;
+}
+
+#medios{
+    background-color: rgb(178, 249, 252);
+}
+
+#medios table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#medios h2{
+    color: rgb(45, 50, 78);
+    padding: 20px 20px;
+    border-bottom: 3px solid #6687a0; 
+    margin-bottom:10px;
+    font-size: 26px;
+}
+
+#medios p{
+    color: rgb(45, 50, 80);
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#medios th{
+    padding: 15px 15px;
+    width: 30%;
+}
+
+#medio a{
+    text-decoration: none;
+    color: rgb(45, 50, 80);
+}
+
+#feedback{
+    background-color: rgb(167, 167, 167);
+}
+
+
+#feedback img{
+	float: right;
+    display: block;
+    margin: 15px 15px;
+	position: auto;
+	width: 30%;
+}
+
+#feedback p{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(0, 99, 89);
+	padding: 15px 15px;
+	position: auto;
+}
+
+#feedback form{
+    margin-left: 10%;
+}
+
+#mensaje{
+    height: 200px;
+}

@@ -1,0 +1,123 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body{
+	background-color:rgb(177, 224, 219);
+	margin-left: 2%;
+	margin-right: 2%;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+	height: 100%;
+}
+
+#top{
+	overflow: hidden;
+	background-color: rgb(255,255,255);
+	position: auto ;
+}
+
+#top img{
+	width: 25%;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
+#top form{
+	float: right;
+	size: 10%;
+	margin-right: 15px;
+	margin-top: 8px;
+	padding: 15px 15px;
+}
+
+#top input{
+	size: 10%;
+	font-size: 20px;
+}
+
+#top a{
+	text-decoration: none;
+}
+
+.button{
+	background-color: rgb(220,220,220);
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: center;
+	border: none;
+	margin: 2px 2px;
+	display: inline-block;
+	cursor: pointer;
+	padding: 4px 4px;
+}
+
+header{
+	width: 100%;
+}
+
+.navegacion{
+	background-color: rgb(190, 226, 214);
+}
+
+.navegacion ul{
+	list-style: none;
+}
+
+.menu > li{
+	position: relative;
+	display: inline-block;
+}
+
+.menu > li >a{
+	display: block;
+	color: rgb(0, 48, 77);
+	padding: 15px 20px;
+	text-decoration: none;
+}
+
+.menu li a:hover{
+	color: rgb(0, 128, 179);
+	transition: all .2s;
+	position: auto;
+}
+
+.submenu {
+	position: absolute;
+	background: rgb(99, 200, 207);
+	width: 150%;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 1.5s;
+	z-index: 10;
+
+}
+
+.submenu li a{
+	display: block;
+	padding: 15px;
+	color: rgb(0, 48, 77);
+	text-decoration: none;
+}
+
+.menu li:hover .submenu{
+	visibility: visible;
+	opacity: 1;
+}
+
+#barra2{
+	position: auto;
+	text-align: center;
+	background-color: rgb(106,135,125);
+	padding: 10px 10px;
+}
+
+#barra2 a{
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}

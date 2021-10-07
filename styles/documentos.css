@@ -1,0 +1,52 @@
+.centro{
+    background-color:rgb(175, 206, 203);
+    position: auto;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+}
+
+.centro h1{
+    color: rgb(82, 89, 129);
+    font-size: 35px;
+    padding: 15px 15px;
+    text-align: center;
+}
+
+.inicio-img{
+	background-color: rgb(112, 216, 173);
+	position: relative;
+}
+
+.inicio-img img{
+	padding: 15px 15px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    position: auto;
+}
+
+.inicio-img h1{
+	background-color: rgba(188,188,188, 0.8);
+	padding: 15px 15px;
+    margin: 0;
+    font-size: 25px;
+    position: absolute;
+    color: white;
+    top: 80%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.inicio-img p{
+    font-size: 22px;
+	text-align: center;
+    color: white;
+}
+
+.inicio-img a{
+	text-decoration: none;
+	color: white;
+	font-style: italic;
+}
+ 

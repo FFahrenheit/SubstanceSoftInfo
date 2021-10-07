@@ -1,0 +1,79 @@
+.centrado{
+    background-color: white;
+    padding: 15px 15px;
+}
+
+.centrado h1{
+    text-align: center;
+    color: rgb(0, 105, 79);
+    font-size: 50px;
+}
+
+.centrado img{
+    border: 10px;
+    width: 100%;
+}
+
+#mision{
+    background-color: rgb(163, 240, 208);
+    padding: 25px 10px;
+}
+
+#mision h2{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(0, 105, 79);
+}
+
+#mision p{
+    font-size: 20px;
+    text-align: center; 
+    color: rgb(0, 93, 109);
+}
+
+.productos{
+    background-color: rgb(138, 180, 166);
+    overflow: hidden;
+    position: auto;
+    padding: 10px 10px;
+}
+
+.productos h2{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+	text-align: center;
+	font-size: 30px;
+	color: rgb(9, 101, 155);
+}
+
+.productos img{
+	float: right;
+	display: block;
+	position: auto;
+	width: 300px;
+}
+
+.productos p{
+	font-size: 20px;
+	text-align: center;
+	padding: 15px 15px;
+	position: auto;
+}
+
+.productos a{
+    margin: 10px 10px 10px 10px;
+    background-color: rgba(188,188,188);
+	text-decoration: none;	
+	text-align: center;
+	color: rgb(9, 101, 155);
+	text-align: center;
+}
+
+.productos button{
+    font-size: 20px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+    padding: 15px 15px;
+    text-align: center;
+    align-content: center;
+    border-radius: 10px;
+    background-color: rgb(188,188,188);
+}

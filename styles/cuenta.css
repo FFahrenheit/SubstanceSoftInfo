@@ -1,0 +1,79 @@
+#centrado{
+    background-color:rgb(138, 216, 208);
+    position: auto;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+}
+
+#centrado h1{
+    color: rgb(82, 89, 129);
+    font-size: 35px;
+    padding: 15px 15px;
+    text-align: center;
+}
+
+#descripcion{
+    background-color: rgb(111, 199, 190);
+    padding: 15px 15px;
+    overflow: hidden;
+    position: auto;
+}
+
+#descripcion img{
+    float: left;
+    display: block;
+    margin: 15px 15px;
+	position: auto;
+	width: 35%;
+}
+
+#descripcion p{
+    font-size: 24px;
+    text-align: center;
+    color: rgb(0, 99, 89);
+	padding: 15px 15px;
+	position: auto;
+}
+
+#descripcion h2{
+    font-size: 35px;
+    padding :15px 15px;
+    text-align: center;
+    color: rgb(0, 105, 79);
+}
+
+#funciones{
+    background-color: rgb(90, 180, 171);
+    position: auto;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino;
+    padding-bottom: 10px;
+}
+
+#funciones h2{
+    font-size: 35px;
+    padding :15px 15px;
+    text-align: center;
+    color: rgb(0, 105, 79);
+}
+
+#funciones ul{
+    color: rgb(0, 73, 66);
+    font-size: 20px;
+    margin-left:30%;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+#funciones ul ul{
+    margin-left: 8%;
+}
+
+#proximamente{
+    background-color: rgb(25, 131, 120);
+    padding: 25px 25px;
+}
+
+#proximamente h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(214, 255, 251);
+}
